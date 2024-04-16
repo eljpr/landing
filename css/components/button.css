@@ -1,0 +1,15 @@
+.btn-orange {
+  background: #e07a5f;
+  border-radius: 4px;
+  color: #ece3d5;
+  font-weight: bold;
+  padding: 10px 25px;
+  transition: background 0.3s ease;
+  }
+
+  .btn-orange:hover {
+    background: #f2cc8f;
+    color: #e07a5f;
+    opacity: 1;
+    text-decoration: none;
+  }
